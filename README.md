@@ -1,19 +1,19 @@
 # 👋 Olá, me chamo Lucas!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaspincho/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucaspincho/)](https://www.linkedin.com/in/lucaspincho/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas@pincho.com.br)](mailto:lucas@pincho.com.br)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/lucaspincho/)](https://www.instagram.com/lucas_pincho/)
 [![Website Badge](https://img.shields.io/badge/-Meu_Site-0D47A1?style=flat-square&logo=react&logoColor=white&link=https://lucas.pincho.com.br)](https://lucas.pincho.com.br)
 
-## 💫 Sobre mim
+## 🙋‍♂️ Sobre mim
 Desenvolvedor e entusiasta de Inteligência Artificial com formação em Análise e Desenvolvimento de Sistemas pelo Senac PE e atualmente me especializando em IA para Desenvolvedores pela FIAP em parceria com a Alura. Apaixonado por tecnologia, estou sempre em busca de novos conhecimentos e desafios.
 
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas (Senac PE)
-- 📚 Pós-graduando em Inteligência Artificial para Devs (FIAP/Alura)
+- 🤖 Pós-graduando em Inteligência Artificial para Devs (FIAP/Alura)
 - 🌐 Idiomas: Português (Nativo) e Inglês (Avançado - C1)
 - 🌍 Experiência internacional: 6 meses em Portugal
 
-## 🔭 Projetos em Destaque
+## 🚀 Projetos em Destaque
 
 ### Futsallink - Plataforma de Conexão para o Futsal
 Uma solução inovadora que conecta clubes, jogadores e empresários do mundo do futsal, facilitando negociações e oportunidades dentro do esporte.
