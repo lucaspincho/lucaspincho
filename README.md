@@ -2,15 +2,16 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-linkedin/)](https://www.linkedin.com/in/seu-linkedin/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu-email@gmail.com)](mailto:seu-email@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/seu-instagram/)](https://www.instagram.com/seu-instagram/)
+[![Website Badge](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=safari&logoColor=white&link=https://seu-website.com)](https://seu-website.com)
 
 ## 💫 Sobre mim
 Desenvolvedor e entusiasta de Inteligência Artificial com formação em Análise e Desenvolvimento de Sistemas pelo Senac PE e atualmente me especializando em IA para Desenvolvedores pela FIAP em parceria com a Alura. Apaixonado por tecnologia, estou sempre em busca de novos conhecimentos e desafios.
 
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas (Senac PE)
 - 📚 Pós-graduando em Inteligência Artificial para Devs (FIAP/Alura)
-- 🌎 Fluente em Português e Inglês (Nível C1)
+- 🌐 Idiomas: Português (Nativo) e Inglês (Avançado - C1)
 - 🌍 Experiência internacional: 6 meses em Portugal
-- 🚀 Em busca da primeira oportunidade profissional em IA/Data Science
 
 ## 🔭 Projetos em Destaque
 
@@ -21,10 +22,6 @@ Uma solução inovadora que conecta clubes, jogadores e empresários do mundo do
 ### [Nome do Projeto Acadêmico] - Análise de Dados com Python
 Análise exploratória de dados utilizando bibliotecas como Pandas, NumPy e Matplotlib para [descrição breve].
 > Tecnologias: Python, Pandas, Streamlit
-
-### [Outro Projeto Relevante]
-Breve descrição do projeto e suas funcionalidades principais.
-> Tecnologias: [Liste as tecnologias utilizadas]
 
 ## 💻 Habilidades Técnicas
 
@@ -63,16 +60,6 @@ Breve descrição do projeto e suas funcionalidades principais.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-## 🌱 Atualmente Aprendendo
-- Aprofundamento em modelos de Machine Learning e Deep Learning
-- Desenvolvimento de aplicações com IA integrada
-- Análise de dados avançada com Python
-
-## ⚡ Curiosidades
-- Entusiasta de futebol e futsal
-- Gamer nas horas vagas
-- Apaixonado por viagens e novas culturas
 
 ---
 
