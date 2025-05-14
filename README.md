@@ -1,9 +1,9 @@
 # 👋 Olá, me chamo Lucas!
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-linkedin/)](https://www.linkedin.com/in/seu-linkedin/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu-email@gmail.com)](mailto:lucas@pincho.com.br)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/seu-instagram/)](https://www.instagram.com/lucas_pincho/)
-[![Website Badge](https://img.shields.io/badge/-Meu_Site-0D47A1?style=flat-square&logo=react&logoColor=white&link=https://seu-website.com)](https://seu-website.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaspincho/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas@pincho.com.br)](mailto:lucas@pincho.com.br)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/lucaspincho/)](https://www.instagram.com/lucas_pincho/)
+[![Website Badge](https://img.shields.io/badge/-Meu_Site-0D47A1?style=flat-square&logo=react&logoColor=white&link=https://lucas.pincho.com.br)](https://lucas.pincho.com.br)
 
 ## 💫 Sobre mim
 Desenvolvedor e entusiasta de Inteligência Artificial com formação em Análise e Desenvolvimento de Sistemas pelo Senac PE e atualmente me especializando em IA para Desenvolvedores pela FIAP em parceria com a Alura. Apaixonado por tecnologia, estou sempre em busca de novos conhecimentos e desafios.
@@ -15,13 +15,13 @@ Desenvolvedor e entusiasta de Inteligência Artificial com formação em Anális
 
 ## 🔭 Projetos em Destaque
 
-### FutsalConnect - Plataforma de Conexão para o Futsal
+### Futsallink - Plataforma de Conexão para o Futsal
 Uma solução inovadora que conecta clubes, jogadores e empresários do mundo do futsal, facilitando negociações e oportunidades dentro do esporte.
-> Em desenvolvimento com React, MongoDB, e Firebase.
+> Em desenvolvimento com Flutter, Firebase e APIs.
 
-### [Nome do Projeto Acadêmico] - Análise de Dados com Python
-Análise exploratória de dados utilizando bibliotecas como Pandas, NumPy e Matplotlib para [descrição breve].
-> Tecnologias: Python, Pandas, Streamlit
+### Otimizador de Portfólio de Investimento
+Ferramenta que supera os métodos tradicionais de otimização de investimentos utilizando abordagem evolutiva. Implementa um sistema que equilibra risco e retorno enquanto lida com restrições complexas e distribuições não-normais.
+> Tecnologias: Python, Pandas, Streamlit e Algoritmos Genéticos.
 
 ## 💻 Habilidades Técnicas
 
