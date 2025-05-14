@@ -1,9 +1,9 @@
 # 👋 Olá, me chamo Lucas!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-linkedin/)](https://www.linkedin.com/in/seu-linkedin/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu-email@gmail.com)](mailto:seu-email@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/seu-instagram/)](https://www.instagram.com/seu-instagram/)
-[![Website Badge](https://img.shields.io/badge/-Meu_Site-483D8B?style=flat-square&logo=google-chrome&logoColor=white&link=https://seu-website.com)](https://seu-website.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-linkedin/)](https://www.linkedin.com/in/lucaspincho/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu-email@gmail.com)](mailto:lucas@pincho.com.br)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/seu-instagram/)](https://www.instagram.com/lucas_pincho/)
+[![Website Badge](https://img.shields.io/badge/-Meu_Site-0D47A1?style=flat-square&logo=firefox-browser&logoColor=white&link=https://seu-website.com)](https://lucas.pincho.com.br)
 
 ## 💫 Sobre mim
 Desenvolvedor e entusiasta de Inteligência Artificial com formação em Análise e Desenvolvimento de Sistemas pelo Senac PE e atualmente me especializando em IA para Desenvolvedores pela FIAP em parceria com a Alura. Apaixonado por tecnologia, estou sempre em busca de novos conhecimentos e desafios.
@@ -42,8 +42,8 @@ Análise exploratória de dados utilizando bibliotecas como Pandas, NumPy e Matp
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ### Ciência de Dados e IA
-![Data Science](https://img.shields.io/badge/-Data_Science-FF4500?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/-Machine_Learning-102230?style=flat-square)
+![Data Science](https://img.shields.io/badge/-Data_Science-FF4500?style=flat-square&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine_Learning-102230?style=flat-square&logo=tensorflow&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 
@@ -51,8 +51,7 @@ Análise exploratória de dados utilizando bibliotecas como Pandas, NumPy e Matp
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square)
-![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 
 ## 📊 Estatísticas do GitHub
 <div align="center">
@@ -62,4 +61,4 @@ Análise exploratória de dados utilizando bibliotecas como Pandas, NumPy e Matp
 
 ---
 
-⭐️ De lucaspincho(https://github.com/lucaspincho)
+⭐️ De [lucaspincho](https://github.com/lucaspincho)
