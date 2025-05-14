@@ -1,4 +1,4 @@
-# 👋 Olá, me chamo Lucas!
+# 👋 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6FAFFF&width=435&lines=Ol%C3%A1%2C+me+chamo+Lucas!)](https://git.io/typing-svg)
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucaspincho/)](https://www.linkedin.com/in/lucaspincho/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas@pincho.com.br)](mailto:lucas@pincho.com.br)
