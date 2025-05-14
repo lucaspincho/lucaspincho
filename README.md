@@ -1,9 +1,7 @@
-<div align="left">
-  <h1>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&width=435&lines=Ol%C3%A1%2C+me+chamo+Lucas!" alt="Typing SVG" /></a>
-  </h1>
-</div>
+<h1 align="left">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" style="vertical-align: bottom; margin-bottom: 5px;" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&vCenter=true&width=435&lines=Ol%C3%A1%2C+me+chamo+Lucas!" alt="Typing SVG" style="vertical-align: middle;" /></a>
+</h1>
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucaspincho/)](https://www.linkedin.com/in/lucaspincho/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas@pincho.com.br)](mailto:lucas@pincho.com.br)
