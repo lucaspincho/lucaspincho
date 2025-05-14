@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-linkedin/)](https://www.linkedin.com/in/seu-linkedin/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu-email@gmail.com)](mailto:seu-email@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/seu-instagram/)](https://www.instagram.com/seu-instagram/)
-[![Website Badge](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=safari&logoColor=white&link=https://seu-website.com)](https://seu-website.com)
+[![Website Badge](https://img.shields.io/badge/-Meu_Site-483D8B?style=flat-square&logo=google-chrome&logoColor=white&link=https://seu-website.com)](https://seu-website.com)
 
 ## 💫 Sobre mim
 Desenvolvedor e entusiasta de Inteligência Artificial com formação em Análise e Desenvolvimento de Sistemas pelo Senac PE e atualmente me especializando em IA para Desenvolvedores pela FIAP em parceria com a Alura. Apaixonado por tecnologia, estou sempre em busca de novos conhecimentos e desafios.
@@ -53,7 +53,6 @@ Análise exploratória de dados utilizando bibliotecas como Pandas, NumPy e Matp
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square)
 ![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ## 📊 Estatísticas do GitHub
 <div align="center">
@@ -63,4 +62,4 @@ Análise exploratória de dados utilizando bibliotecas como Pandas, NumPy e Matp
 
 ---
 
-⭐️ De [seu-username](https://github.com/seu-username)
+⭐️ De lucaspincho(https://github.com/lucaspincho)
