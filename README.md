@@ -1,9 +1,9 @@
 # 👋 Olá, me chamo Lucas!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-linkedin/)](https://www.linkedin.com/in/lucaspincho/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/seu-linkedin/)](https://www.linkedin.com/in/seu-linkedin/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu-email@gmail.com)](mailto:lucas@pincho.com.br)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/seu-instagram/)](https://www.instagram.com/lucas_pincho/)
-[![Website Badge](https://img.shields.io/badge/-Meu_Site-0D47A1?style=flat-square&logo=firefox-browser&logoColor=white&link=https://seu-website.com)](https://lucas.pincho.com.br)
+[![Website Badge](https://img.shields.io/badge/-Meu_Site-0D47A1?style=flat-square&logo=react&logoColor=white&link=https://seu-website.com)](https://seu-website.com)
 
 ## 💫 Sobre mim
 Desenvolvedor e entusiasta de Inteligência Artificial com formação em Análise e Desenvolvimento de Sistemas pelo Senac PE e atualmente me especializando em IA para Desenvolvedores pela FIAP em parceria com a Alura. Apaixonado por tecnologia, estou sempre em busca de novos conhecimentos e desafios.
