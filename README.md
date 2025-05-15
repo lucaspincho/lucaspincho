@@ -13,17 +13,6 @@ Desenvolvedor e entusiasta de Inteligência Artificial com formação em Anális
 - 🎓 Formado em Análise e Desenvolvimento de Sistemas (Senac PE)
 - 🤖 Pós-graduando em Inteligência Artificial para Devs (FIAP/Alura)
 - 🌐 Idiomas: Português (Nativo) e Inglês (Avançado - C1)
-- 🌍 Experiência internacional: 6 meses em Portugal
-
-## 🚀 Projetos em Destaque
-
-### Futsallink - Plataforma de Conexão para o Futsal
-Uma solução inovadora que conecta clubes, jogadores e empresários do mundo do futsal, facilitando negociações e oportunidades dentro do esporte.
-> Em desenvolvimento com Flutter, Firebase e APIs.
-
-### Otimizador de Portfólio de Investimento
-Ferramenta que supera os métodos tradicionais de otimização de investimentos utilizando abordagem evolutiva. Implementa um sistema que equilibra risco e retorno enquanto lida com restrições complexas e distribuições não-normais.
-> Tecnologias: Python, Pandas, Streamlit e Algoritmos Genéticos.
 
 ## 💻 Habilidades Técnicas
 
@@ -48,12 +37,6 @@ Ferramenta que supera os métodos tradicionais de otimização de investimentos 
 ![Machine Learning](https://img.shields.io/badge/-Machine_Learning-102230?style=flat-square&logo=tensorflow&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-
-### Ferramentas e Ambientes
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 
 ## 📊 Estatísticas do GitHub
 <div>
