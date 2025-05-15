@@ -3,7 +3,7 @@
 </p>
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucaspincho/)](https://www.linkedin.com/in/lucaspincho/)
-[![Gmail Badge](https://img.shields.io/badge/-E-mail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas@pincho.com.br)](mailto:lucas@pincho.com.br)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas@pincho.com.br)](mailto:lucas@pincho.com.br)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/lucaspincho/)](https://www.instagram.com/lucas_pincho/)
 [![Website Badge](https://img.shields.io/badge/-Meu_Site-0D47A1?style=flat-square&logo=react&logoColor=white&link=https://lucas.pincho.com.br)](https://lucas.pincho.com.br)
 
