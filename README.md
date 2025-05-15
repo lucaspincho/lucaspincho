@@ -61,9 +61,11 @@ Ferramenta que supera os métodos tradicionais de otimização de investimentos 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspincho&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## ⚡ Diferencial
-
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/seu-username/seu-username/output/github-contribution-grid-snake.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucaspincho/lucaspincho/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucaspincho/lucaspincho/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lucaspincho/lucaspincho/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
